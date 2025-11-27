@@ -1,0 +1,7 @@
+{
+  "name": "BabyVita",
+  "description": "Una experiencia encantadora de comercio electrónico para ropa de bebé premium en Argentina.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
